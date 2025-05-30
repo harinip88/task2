@@ -43,3 +43,4 @@ def render_page(title, body):
     {body}
     </body></html>
     """)
+
